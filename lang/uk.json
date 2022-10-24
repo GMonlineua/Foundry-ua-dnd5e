@@ -269,7 +269,7 @@
   "DND5E.ConsumeHitDiceLargest": "Найбільший Доступний",
   "DND5E.ConsumeHitDiceSmallest": "Найменший Доступний",
   "DND5E.ConsumeMaterial": "Матеріали",
-  "DND5E.ConsumeCharges": "Використання Предмета",
+  "DND5E.ConsumeCharges": "Використання Елемента",
   "DND5E.ConsumeWarningNoResource": "{name} витрачає {type}, але ресурс не обрано!",
   "DND5E.ConsumeWarningNoSource": "{type} витрачаються {name}, що більше не існує!",
   "DND5E.ConsumeWarningNoQuantity": "У {name} закінчилися {type}!",
