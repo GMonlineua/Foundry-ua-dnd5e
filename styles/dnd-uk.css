@@ -98,3 +98,8 @@
 .dnd5e.sheet.actor.character .characteristics label {
   font-family: "Noto Serif";
   font-weight: 700;
+}
+
+.tidy5e.sheet.actor .resources .resource .resource-name input {
+  font-size: 15px !important;
+}

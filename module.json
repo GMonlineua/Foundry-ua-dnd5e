@@ -5,14 +5,16 @@
   "authors": [
     {
       "name": "GMonline",
+      "discord": "VladDracula#9198",
       "url": "https://github.com/GMonlineua",
       "flags": {}
     }
   ],
-  "version": "0.9.4",
+  "version": "0.9.5",
   "compatibility": {
-    "minimum": "9",
-    "verified": "10"
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
   },
   "url": "https://github.com/GMonlineua/lang-dnd-uk",
   "manifest": "https://raw.githubusercontent.com/GMonlineua/lang-dnd-uk/master/module.json",

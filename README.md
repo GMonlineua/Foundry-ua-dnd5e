@@ -1,17 +1,29 @@
 # Translation Foundry VTT: Ukrainian [DnD 5e]
-
-Даний модуль для Foundry VTT являє собою набір компендіумів з перекладеними класами, класовими та расовими вміннями, та предметами з SRD. Оскільки контент з доповнень неможливо офіційно поширювати, то його тут не буде. Також добавлена українська локалізація для D&D, проте вона не ідеальна. Не все я знайшов як перекласти, а також зроблено все не офіційно. З часом в планах створити нормальний модуль з перекладом.
+![](https://github.com/foundryvtt/dnd5e/blob/v10-dev/media/repo-dnd5e.jpg?raw=true)
+[![Foundry Shield 10]][Foundry URL]
+[![Version]][Version URL]
+[![MIT License]][MIT URL]
+Неофіційний український переклад [DnD 5e](https://github.com/foundryvtt/dnd5e) для [Foundry Virtual Tabletop](http://foundryvtt.com). Цей модуль пропонується та може використовуватися відповідно до умов ліцензії Open Gaming License v1.0a та [Systems Reference Document 5.1 (SRD5)](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf).
 
 ## Встановлення
 Щоб встановити цей модуль:
-1.  На екрані Foundry "Configuration and Setup", нажміть "Add-on Modules"
-2.  Виберіть "Install Module"
-3.  В полі "Manifest URL" вставте наступне посилання: `https://raw.githubusercontent.com/GMonlineua/lang-dnd-uk/master/module.json`
-4.  Нажміть 'Install' і почекайте поки встановлення завершиться
-5.  Не забудьте включити модуль у грі за допомогою кнопки "Manage Module"
-
-## Допомога
-Якщо бажаєте допомогти проекту - пишіть на gmonlineua@gmail.com або в Discord VladDracula#9198
+1.  Усередині екрану "Configuration and Setup" лаучера натисніть "Add-on Modules".
+2.  Натисніть "Install Module".
+3.  В полі "Manifest URL" вставте наступне посилання: `https://raw.githubusercontent.com/GMonlineua/lang-dnd-uk/master/module.json` або скористайтесь пошуком по назві модуля Translation: Ukrainian [DnD 5e].
+4.  Натисніть 'Install' і дочекайтеся завершення встановлення.
+5.  Увімкніть модуль у налаштуваннях "Manage Module".
+6. В налаштуваннях "Configure Settings" у вкладці "Core" встановіть "Language Preference" на українську мову (Ukrainian).
 
 ## Інше
  - [Проект в Crowdin](https://crowdin.com/project/dndua)
+ - [Перекоад Інтерфейсу Foundry VTT](https://github.com/roleplaysolovinoiu/Foundryvtt-ua)
+ - [Переклад WoD 5e](https://github.com/InqShanila/vtm5e-ukrainian)
+
+[Foundry Shield 10]: https://img.shields.io/badge/Foundry-10-informational?style=flat-square
+[Foundry URL]: https://foundryvtt.com
+
+[Version]: https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square
+[Version URL]: https://foundryvtt.com
+
+[MIT License]: https://img.shields.io/badge/License-MIT-green?style=flat-square
+[MIT URL]: https://github.com/InqShanila/vtm5e-ukrainian/blob/main/LICENSE.md
