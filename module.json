@@ -1,7 +1,7 @@
 {
   "id": "lang-dnd-uk",
   "title": "Translation: Ukrainian [DnD 5e]",
-  "description": "Український переклад D&amp;D, а також компендіуми з SRD контентом.",
+  "description": "Український переклад DnD, а також компендіуми з SRD контентом.",
   "authors": [
     {
       "name": "GMonline",
@@ -18,8 +18,7 @@
   },
   "url": "https://github.com/GMonlineua/lang-dnd-uk",
   "manifest": "https://raw.githubusercontent.com/GMonlineua/lang-dnd-uk/master/module.json",
-  "download": "https://github.com/GMonlineua/lang-dnd-uk/releases/download/v0.9.2-beta/version-0.9.2.zip",
-  "relationships": {
+  "download": "https://github.com/GMonlineua/lang-dnd-uk/releases/download/v0.9.5/version-0.9.5.zip": {
     "systems": [
       {
         "id": "dnd5e",
