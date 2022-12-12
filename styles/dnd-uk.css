@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/noto-serif.woff') format("woff");
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/noto-serif-bold.woff') format("woff");
+}
+
+.modesto {
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.dnd5e .form-header {
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.dnd5e.sheet .sheet-header .header-details {
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+}
+.dnd5e.sheet .sheet-header .header-details .summary select {
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: capitalize;
+  font-weight: 100;
+}
+
+.dnd5e.sheet .sheet-navigation {
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.dnd5e .items-list .items-header h3 {
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+  text-align: left;
+  font-size: 16px;
+}
+
+.dnd5e.sheet.actor h4.box-title {
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  color: #4b4a44;
+  border-bottom: 1px solid #c9c7b8;
+  white-space: nowrap;
+}
+
+.dnd5e.sheet.actor ul.attributes li.attribute .attribute-value {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 28px;
+  line-height: 28px;
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.dnd5e.sheet.actor .ability-scores {
+  flex: 0 0 100px;
+  align-content: flex-start;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+  border: 2px groove #eeede0;
+  border-radius: 3px;
+}
+
+.dnd5e.chat-card .card-header h3 {
+  flex: 1;
+  margin: 0;
+  line-height: 36px;
+  font-family: "Noto Serif";
+  font-size: 20px;
+  font-weight: 700;
+  color: #4b4a44;
+}
+
+.dnd5e.sheet.actor.character .characteristics label {
+  font-family: "Noto Serif";
+  font-weight: 700;

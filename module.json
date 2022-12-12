@@ -9,7 +9,7 @@
       "flags": {}
     }
   ],
-  "version": "0.9.3",
+  "version": "0.9.4",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
@@ -29,6 +29,9 @@
       }
     ]
   },
+  "styles": [
+    "styles/dnd-uk.css"
+  ],
   "languages": [
     {
       "lang": "uk",
