@@ -18,6 +18,7 @@
  - [Проект в Crowdin](https://crowdin.com/project/dndua)
  - [Перекоад Інтерфейсу Foundry VTT](https://github.com/roleplaysolovinoiu/Foundryvtt-ua)
  - [Переклад WoD 5e](https://github.com/InqShanila/vtm5e-ukrainian)
+ - [Discord сервер «RolePlay Солов'їною»](https://discord.gg/pMTtejFJJv)
 
 [Foundry Shield 10]: https://img.shields.io/badge/Foundry-10-informational?style=flat-square
 [Foundry URL]: https://foundryvtt.com
