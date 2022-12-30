@@ -4,13 +4,12 @@
   "description": "Неофіційний український переклад DnD 5e для Foundry Virtual Tabletop. ",
   "authors": [
     {
-      "name": "GMonline",
-      "discord": "VladDracula#9198",
+      "name": "GMonline, ІНРІУМ",
       "url": "https://github.com/GMonlineua",
       "flags": {}
     }
   ],
-  "version": "0.9.6",
+  "version": "0.9.7",
   "compatibility": {
     "minimum": 10,
     "verified": 10,
@@ -20,7 +19,7 @@
   "license": "https://github.com/GMonlineua/Foundry-ua-dnd5e/blob/master/LICENSE.md",
   "readme": "https://github.com/GMonlineua/Foundry-ua-dnd5e/blob/master/README.md",
   "manifest": "https://raw.githubusercontent.com/GMonlineua/Foundry-ua-dnd5e/master/module.json",
-  "download": "https://github.com/GMonlineua/Foundry-ua-dnd5e/releases/download/v0.9.6/version-0.9.6.zip",
+  "download": "https://github.com/GMonlineua/Foundry-ua-dnd5e/releases/download/v0.9.7/version-0.9.7.zip",
   "relationships": {
     "systems": [
       {
